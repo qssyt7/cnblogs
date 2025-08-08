@@ -10,5 +10,5 @@
 本地：[git](https://git-scm.com/)和[vnote](https://app.vnote.fun/zh_cn/) 。 我的电脑win11家庭板，本地git仓库推到github后，会自动同步到cnblogs 省时省力。vnote是笔记本形式的markdown编辑工具，基本QT开发，内置了git版本管理功能，直接推送github，并且此工具开源。
 
 ## 实验目录
-0.C语言实验教程-实验环境安装
-1.C语言实验教程-helloworld
+[0.C语言实验教程-实验环境安装](https://www.cnblogs.com/qs52/p/19028287)
+[1.C语言实验教程-helloworld](https://www.cnblogs.com/qs52/p/19028288)
