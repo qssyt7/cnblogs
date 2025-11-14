@@ -1,14 +1,14 @@
 {
     "attachment_folder": "vx_attachments",
     "config_mgr": "vx.vnotex",
-    "created_time": "2025-08-08T03:07:39Z",
+    "created_time": "2025-11-14T05:47:15Z",
     "description": "",
     "extra_configs": {
     },
     "history": [
     ],
     "image_folder": "vx_images",
-    "name": "cnblogs",
+    "name": "CnblogsByGithub",
     "tag_graph": "",
     "version": 3,
     "version_controller": "dummy.vnotex"
