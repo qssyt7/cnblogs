@@ -27,7 +27,7 @@ STM32F103RCT6中断方式，按键消抖，去抖如何实现。
 ## 代码处理：
 
 打开生成的工程：
-在`usart.c`文件的末尾
+在`gpio.c`文件的末尾
 ```
 /* USER CODE BEGIN 2 */
 /* USER CODE END 2 */
