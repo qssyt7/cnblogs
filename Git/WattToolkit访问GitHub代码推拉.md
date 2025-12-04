@@ -50,7 +50,7 @@ Everything up-to-date
 [参考这里](https://huayemao.run/posts/265)
 
 备注：
-1. 设置些证书后，如果关闭 `Watt Toolkit `,会推送失败，同样报SSL的问题。
+1. 设置此证书后，如果关闭 `Watt Toolkit `,会推送失败，同样报SSL的问题。
 2. 会不会影响码云，没有测试。
 
 the end!
