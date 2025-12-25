@@ -40,6 +40,19 @@ git config --global http.sslCAInfo     "C:\Users\xxxx\AppData\Local\Packages\465
 ```
 ![更新Cer](vx_images/207193250907151.png)
 
+
+查询git 配置
+```
+git config --global -l
+
+```
+
+删除 导入的证书
+```
+git config --global --unset http.sslCAInfo
+```
+
+
 推送正常。
 
 ```
@@ -51,7 +64,9 @@ Everything up-to-date
 
 备注：
 1. 设置此证书后，如果关闭 `Watt Toolkit `,会推送失败，同样报SSL的问题。
+
 2. 会不会影响码云，没有测试。
+   测试过了，会影响码云。删除导入的证书后，可以正常推送了。
 
 the end!
 
