@@ -41,17 +41,6 @@ git config --global http.sslCAInfo     "C:\Users\xxxx\AppData\Local\Packages\465
 ![更新Cer](vx_images/207193250907151.png)
 
 
-查询git 配置
-```
-git config --global -l
-
-```
-
-删除 导入的证书
-```
-git config --global --unset http.sslCAInfo
-```
-
 
 推送正常。
 
@@ -59,6 +48,20 @@ git config --global --unset http.sslCAInfo
 正在推送 master
 Everything up-to-date
 ```
+
+# 使用默认的证书
+
+查询git配置
+```
+git config --global -l
+
+```
+
+删除导入的证书的配置
+```
+git config --global --unset http.sslCAInfo
+```
+
 
 [参考这里](https://huayemao.run/posts/265)
 
