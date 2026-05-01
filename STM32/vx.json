@@ -10,6 +10,16 @@
             "signature": "16384677714853282703",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "511077217357790",
+            "created_time": "2026-05-01T02:44:45Z",
+            "id": "57",
+            "modified_time": "2026-05-01T03:55:22Z",
+            "name": "VSCODE-CMAKE-STM32CubeMX环境.md",
+            "signature": "2345073761964004253",
+            "tags": [
+            ]
         }
     ],
     "folders": [
